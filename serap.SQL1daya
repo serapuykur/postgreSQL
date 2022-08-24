@@ -17,4 +17,4 @@ as
 select ogr_no,notlar from ogrenci;
 select *from ogrenci;
 select *from ogr_notlari;/*
-sql kolay*/hhhhh--hhk--serap uykurr
+
